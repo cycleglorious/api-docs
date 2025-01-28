@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "adapter-api-docs.md",
+                "file": "templates/api-template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "adapter-api-docs"
+              "title": "api-template"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "adapter-api-docs.md",
+                "file": "templates/api-template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for adapter-api-docs"
+              "title": "Backlinks for api-template"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "adapter-api-docs.md",
+                "file": "templates/api-template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from adapter-api-docs"
+              "title": "Outgoing links from api-template"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "adapter-api-docs.md"
+                "file": "templates/api-template.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of adapter-api-docs"
+              "title": "Outline of api-template"
             }
           }
         ],
@@ -162,10 +162,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d1886019fc682e3c",
+  "active": "e8730e03111b4e94",
   "lastOpenFiles": [
-    "Untitled",
-    "Readme.md",
-    "adapter-api-docs.md"
+    "adapter-api-docs.md",
+    "templates/api-template.md",
+    "templates",
+    "Readme.md"
   ]
 }
